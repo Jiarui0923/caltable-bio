@@ -10,7 +10,7 @@ VERSION = '0.0.8'
 NAME = 'CalTable-Bio'
 
 install_requires = [
-    "caltable",
+    "caltable @ git+https://github.com/Jiarui0923/CalTable@2.0.8",
     "py3Dmol",
     "plotly",
     "matplotlib"
